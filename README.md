@@ -2,7 +2,10 @@
 
 ## only for study 仅仅为了学习而已
 
-![example](https://cdn.jsdelivr.net/gh/changhao970630/cdn@master/images/20200803174543.gif)
+![example1](https://cdn.jsdelivr.net/gh/changhao970630/cdn@master/images/20200803174543.gif)
+
+![example error](https://raw.githubusercontent.com/changhao970630/cdn/master/images/20200803174543.gif)
+
 
  Curgent✅✅✅✅✅✅✅
 
