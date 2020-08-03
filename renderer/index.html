@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐播放器</title>
+    <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.14.0/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Content here -->
+    </div>
+    <div class="container">
+        <div style="padding-bottom:188px;">
+            <h5 style="text-align: center;margin: 10px;">我的播放器</h5>
+            <button type="button" id='add-music-btn' class="btn btn-primary btn-block ">添加音乐</button>
+            <p>当前播放列表:</p>
+            <div id='current_list'>
+                暂时没有音乐喔！😔
+            </div>
+
+        </div>
+
+        <div class="fixed-bottom bg-white" style="border-top: 1px dashed rgb(32, 44, 44);padding:30px">
+            <div class=" row player-container" style="margin-bottom: 20px;max-height: 188px;"></div>
+            <div class="progress">
+                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" ></div>
+              </div>
+        </div>
+
+    </div>
+</body>
+<script>
+    require("./index")
+</script>
+
+</html>
