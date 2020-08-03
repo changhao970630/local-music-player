@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/changhao970630/cdn@master/images/20200803231531.png)
+how to use
 ```
 git clone https://github.com/changhao970630/local-music-player.git
 ```
