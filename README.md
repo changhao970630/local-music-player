@@ -1,3 +1,19 @@
+```
+git clone https://github.com/changhao970630/local-music-player.git
+```
+
+```
+cd local-music-player
+```
+
+```
+npm install
+```
+
+```
+npm start
+```
+
 # local music player 
 
 ## only for study 仅仅为了学习而已
